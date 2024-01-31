@@ -1,4 +1,3 @@
-![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
 <h1 align="center">Hi 👋, I'm Kartik Dhanai</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
@@ -8,17 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/kartik1145576" target="blank"><img src="https://img.shields.io/twitter/follow/kartik1145576?logo=twitter&style=for-the-badge" alt="kartik1145576" /></a> </p>
 
-- 🔭 I’m currently working on **AI ChatBot**
+- 🔭 I’m **Computer Science Undergrad'25 🎓**
+ 
+- ❄️ I’m selected as Mentor for **Social Winter of Code'24**
 
-- 🌱 I’m currently learning **React, LLMs**
+- 🧑‍💻 I’m currently **AIML Lead Google Developer Student Club**
 
-- 👨‍💻 My linktree Link [https://linktr.ee/kartikdhanai6](https://linktr.ee/kartikdhanai6)
+- 🤖 I’m selected as Trainee in **NVIDIA GRIL (Apprenticeship)**
 
-- 💬 Ask me about **MERN , Machine Learning, Data Science**
+- 🧑‍💻 I’m currently **Cohort Memeber at Insurjo'24 : The Product Folks**
+  
+- 💬 Ask me about **MERN Stack, Software Development, ML, Data Science**
 
 - 📫 How to reach me **kartikdhanai6@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Stack Overflow Survivor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
