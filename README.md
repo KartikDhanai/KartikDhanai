@@ -15,7 +15,7 @@
 
 - 🤖 I’m selected as Trainee in **NVIDIA GRIL (Apprenticeship)**
 
-- 🧑‍💻 I’m currently **Cohort Memeber at Insurjo'24 : The Product Folks**
+- 🧑‍💻 I’m currently **Cohort Memeber at Insurjo'24 : The Product Folks ,Project Management**
   
 - 💬 Ask me about **MERN Stack, Software Development, ML, Data Science**
 
