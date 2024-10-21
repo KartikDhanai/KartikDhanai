@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/kartik1145576" target="blank"><img src="https://img.shields.io/twitter/follow/kartik1145576?logo=twitter&style=for-the-badge" alt="kartik1145576" /></a> </p>
 
 - 🔭 I’m **Computer Science Undergrad'25 🎓**
+  
+- 🧑‍💻 I'm selected amoung TOP 50 Project Mentors in **GirlScript Summer of Code 2024**
  
 - ❄️ I’m selected as Mentor for **Social Winter of Code'24**
 
