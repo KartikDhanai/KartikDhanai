@@ -15,6 +15,8 @@
 
 - 🧑‍💻 I’m currently **AIML Lead Google Developer Student Club**
 
+- 🧑‍💻 I’m worked as **Junior ML Intern at Omdena**
+
 - 🤖 I’m selected as Trainee in **NVIDIA GRIL (Apprenticeship)**
 
 - 🧑‍💻 I’m currently **Cohort Memeber at Insurjo'24 : The Product Folks ,Project Management**
